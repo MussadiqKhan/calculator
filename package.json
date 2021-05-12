@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://mussadiqkhan.github.io/calculator/",
   "dependencies": {
-    "mathjs": "^6.0.3",
+    "mathjs": "^7.5.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
